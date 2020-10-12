@@ -27,7 +27,7 @@ module.exports = {
         externalLinks: [
           {
             name: `GitHub`,
-            url: `https://github.com/noahsburroughs`,
+            url: `https://github.com/noahsb`,
           },
           {
             name: `LinkedIn`,
