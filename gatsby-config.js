@@ -39,7 +39,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        trackingId: process.env.UA-180343002-1,
       },
     },
     `gatsby-plugin-sitemap`,
