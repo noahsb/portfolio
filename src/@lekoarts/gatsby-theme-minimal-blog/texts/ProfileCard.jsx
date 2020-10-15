@@ -23,7 +23,7 @@ const ProfileCard = () => {
     <div className={classes.root}>
       <Avatar 
         alt="Noah Burroughs"
-        src="https://avatars1.githubusercontent.com/u/49932437?s=400&u=99b9ae131c2695c3cf8b59348ab5950612557a51&v=4" 
+        src="/profile-img.png" 
         className={classes.large} 
       />
       <p><small>Have a question? You can reach me at: noah-burroughs@uiowa.edu</small></p>
