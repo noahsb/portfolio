@@ -5,7 +5,7 @@ export class CommentBox extends React.Component {
 
     componentDidMount() {
 
-        this.removeCommentBox = commentBox(`{process.env.COMMENT_PROJECT_ID}`, {
+        this.removeCommentBox = commentBox( '5632526060093440-proj', {
             className: 'commentbox', // the class of divs to look for
             defaultBoxId: 'commentbox', // the default ID to associate to the div
             tlcParam: 'tlc', // used for identifying links to comments on your page
