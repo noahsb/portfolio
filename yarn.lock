@@ -4337,6 +4337,13 @@ commander@^2.18.0, commander@^2.20.0, commander@^2.20.3, commander@^2.8.1:
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
   integrity sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==
 
+commentbox.io@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/commentbox.io/-/commentbox.io-2.0.0.tgz#3745060a391e4b69ba7a89d51e21715e53a655ae"
+  integrity sha512-TxzirBdwcRXRTA3DZdTRNKOiUI0RhpUGThQwyeXjukkORF5N4kMG7lE162SBgIuGwFiMTqxKcfTCys6E4RJo8g==
+  dependencies:
+    qs "^6.5.2"
+
 common-tags@^1.4.0, common-tags@^1.8.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/common-tags/-/common-tags-1.8.0.tgz#8e3153e542d4a39e9b10554434afaaf98956a937"
