@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://noahsb.github.io/sitemap.xml
